@@ -1,0 +1,191 @@
+{
+  "B_France" : {
+    "000008" : [ {
+      "sequenceID" : "000008",
+      "group" : "B",
+      "address1" : "Lunea Horne",
+      "street" : "Ap #826-5587 Sociis St.",
+      "city" : "Leoben",
+      "zip" : "78086",
+      "country" : "France",
+      "clinetID" : "61775DC9-769B-388B-C718-13CF1A1956D4",
+      "groupedSequenceID" : ""
+    } ],
+    "000024" : [ {
+      "sequenceID" : "000024",
+      "group" : "B",
+      "address1" : "Zachary Stein",
+      "street" : "851-2063 At Rd.",
+      "city" : "Elbistan",
+      "zip" : "3781",
+      "country" : "France",
+      "clinetID" : "F9BD764F-4B0E-A39D-1756-86DD11935397",
+      "groupedSequenceID" : ""
+    } ],
+    "000031" : [ {
+      "sequenceID" : "000031",
+      "group" : "B",
+      "address1" : "Florence Lopez",
+      "street" : "392-8991 Fringilla Rd.",
+      "city" : "Liberia",
+      "zip" : "15527",
+      "country" : "France",
+      "clinetID" : "2EAD64FB-F931-B89B-9BD9-6D7EEA9289A6",
+      "groupedSequenceID" : ""
+    } ],
+    "000032" : [ {
+      "sequenceID" : "000032",
+      "group" : "B",
+      "address1" : "Paula Sykes",
+      "street" : "6261 Congue Rd.",
+      "city" : "Shimla",
+      "zip" : "692715",
+      "country" : "France",
+      "clinetID" : "4BD0E184-F08F-2BBA-3408-E635D23B9899",
+      "groupedSequenceID" : ""
+    } ],
+    "000044" : [ {
+      "sequenceID" : "000044",
+      "group" : "B",
+      "address1" : "Akeem Casey",
+      "street" : "732-7361 Lacus. Avenue",
+      "city" : "General Lagos",
+      "zip" : "712642",
+      "country" : "France",
+      "clinetID" : "B2B65648-EB58-3E3D-CCE5-353199566302",
+      "groupedSequenceID" : ""
+    } ],
+    "000050" : [ {
+      "sequenceID" : "000050",
+      "group" : "B",
+      "address1" : "Hall House",
+      "street" : "1955 Dolor Rd.",
+      "city" : "Khushab",
+      "zip" : "474815",
+      "country" : "France",
+      "clinetID" : "5B1E2D5F-174C-03D2-DE98-3D3818712E93",
+      "groupedSequenceID" : ""
+    } ],
+    "000067" : [ {
+      "sequenceID" : "000067",
+      "group" : "B",
+      "address1" : "Kim Joyce",
+      "street" : "936-6579 Nisi. Avenue",
+      "city" : "Stirling",
+      "zip" : "75184",
+      "country" : "France",
+      "clinetID" : "BD18FC39-B5A3-996B-E6B9-2339939E69B3",
+      "groupedSequenceID" : ""
+    } ],
+    "000068" : [ {
+      "sequenceID" : "000068",
+      "group" : "B",
+      "address1" : "Nathaniel Lamb",
+      "street" : "170-1741 Non Av.",
+      "city" : "Picton",
+      "zip" : "21307",
+      "country" : "France",
+      "clinetID" : "468BB681-D147-7C3A-4C7D-7A5B34AF5F87",
+      "groupedSequenceID" : ""
+    } ],
+    "000087" : [ {
+      "sequenceID" : "000087",
+      "group" : "B",
+      "address1" : "Aidan Clark",
+      "street" : "Ap #325-7997 Morbi St.",
+      "city" : "Gasteiz",
+      "zip" : "57259",
+      "country" : "France",
+      "clinetID" : "6C2DD6AB-F312-B9F5-DBF8-D6754EDC01A9",
+      "groupedSequenceID" : ""
+    } ],
+    "000097" : [ {
+      "sequenceID" : "000097",
+      "group" : "B",
+      "address1" : "Florence Chambers",
+      "street" : "7520 Turpis. Street",
+      "city" : "Pamplona",
+      "zip" : "5025",
+      "country" : "France",
+      "clinetID" : "B29C458B-2572-8CCA-14CE-8213E211CA5A",
+      "groupedSequenceID" : ""
+    } ],
+    "000130" : [ {
+      "sequenceID" : "000130",
+      "group" : "B",
+      "address1" : "Maggy Bartlett",
+      "street" : "Ap #946-1830 Sem St.",
+      "city" : "Champigny-sur-Marne",
+      "zip" : "412783",
+      "country" : "France",
+      "clinetID" : "86217BDA-F0AC-1BEC-3C94-78DEE1873683",
+      "groupedSequenceID" : ""
+    } ],
+    "000134" : [ {
+      "sequenceID" : "000134",
+      "group" : "B",
+      "address1" : "Jin Richard",
+      "street" : "Ap #122-7335 Quisque Rd.",
+      "city" : "Nantes",
+      "zip" : "744179",
+      "country" : "France",
+      "clinetID" : "33E5EC3A-4877-44B8-8662-E6E4D8C895FB",
+      "groupedSequenceID" : ""
+    } ],
+    "000145" : [ {
+      "sequenceID" : "000145",
+      "group" : "B",
+      "address1" : "Carter Meadows",
+      "street" : "Ap #443-1451 Nisi Rd.",
+      "city" : "Linz",
+      "zip" : "932185",
+      "country" : "France",
+      "clinetID" : "D23EEB39-E4E7-1FD4-F881-7C4E9CB5E6B4",
+      "groupedSequenceID" : ""
+    } ],
+    "000146" : [ {
+      "sequenceID" : "000146",
+      "group" : "B",
+      "address1" : "Gail Vasquez",
+      "street" : "565-5708 Dis St.",
+      "city" : "Irkutsk",
+      "zip" : "32924",
+      "country" : "France",
+      "clinetID" : "76428CAF-6723-28C0-371C-D1C6367E294B",
+      "groupedSequenceID" : ""
+    } ],
+    "000161" : [ {
+      "sequenceID" : "000161",
+      "group" : "B",
+      "address1" : "Cyrus Ewing",
+      "street" : "Ap #111-9730 A Rd.",
+      "city" : "Altidona",
+      "zip" : "12167-11585",
+      "country" : "France",
+      "clinetID" : "DBCC143E-5B89-DDC3-1AAE-D4811E84B323",
+      "groupedSequenceID" : ""
+    } ],
+    "000165" : [ {
+      "sequenceID" : "000165",
+      "group" : "B",
+      "address1" : "Brady York",
+      "street" : "Ap #546-9241 Lacus. St.",
+      "city" : "Lelystad",
+      "zip" : "2756",
+      "country" : "France",
+      "clinetID" : "D24DA916-0683-CCD5-3F61-884602B7934B",
+      "groupedSequenceID" : ""
+    } ],
+    "000176" : [ {
+      "sequenceID" : "000176",
+      "group" : "B",
+      "address1" : "Lunea Gould",
+      "street" : "452-9197 Ipsum. Road",
+      "city" : "Pabianice",
+      "zip" : "6442",
+      "country" : "France",
+      "clinetID" : "F543BC5D-1244-6594-C08B-312D85213403",
+      "groupedSequenceID" : ""
+    } ]
+  }
+}
