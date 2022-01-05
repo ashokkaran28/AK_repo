@@ -1,0 +1,59 @@
+{
+  "E_United States" : {
+    "000072" : [ {
+      "sequenceID" : "000072",
+      "group" : "E",
+      "address1" : "Melvin Dale",
+      "street" : "470-5105 Et Av.",
+      "city" : "Da Lat",
+      "zip" : "66057-36102",
+      "country" : "United States",
+      "clinetID" : "9472C25B-B336-409B-4B96-7F4B54A7B976",
+      "groupedSequenceID" : ""
+    } ],
+    "000075" : [ {
+      "sequenceID" : "000075",
+      "group" : "E",
+      "address1" : "Adrienne Roy",
+      "street" : "954-7406 Tellus Road",
+      "city" : "Rio Verde",
+      "zip" : "57258",
+      "country" : "United States",
+      "clinetID" : "77BAB7DF-D96D-77B3-0E31-AB7DED305BBE",
+      "groupedSequenceID" : ""
+    } ],
+    "000115" : [ {
+      "sequenceID" : "000115",
+      "group" : "E",
+      "address1" : "Cyrus Chavez",
+      "street" : "993-198 Sed Rd.",
+      "city" : "Dumai",
+      "zip" : "5105",
+      "country" : "United States",
+      "clinetID" : "4C2B2203-90D1-8865-1E22-35F3A2158143",
+      "groupedSequenceID" : ""
+    } ],
+    "000142" : [ {
+      "sequenceID" : "000142",
+      "group" : "E",
+      "address1" : "Lani Downs",
+      "street" : "Ap #327-6504 Morbi Road",
+      "city" : "Sagamu",
+      "zip" : "8172",
+      "country" : "United States",
+      "clinetID" : "5F00E943-7BDD-7E88-2160-9BE72C131731",
+      "groupedSequenceID" : ""
+    } ],
+    "000157" : [ {
+      "sequenceID" : "000157",
+      "group" : "E",
+      "address1" : "Carolyn Hatfield",
+      "street" : "600-8066 Proin Road",
+      "city" : "Halifax",
+      "zip" : "2246",
+      "country" : "United States",
+      "clinetID" : "7832BC38-CCA9-63F7-97EF-3C93A749148D",
+      "groupedSequenceID" : ""
+    } ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "E_France" : {
+    "000028" : [ {
+      "sequenceID" : "000028",
+      "group" : "E",
+      "address1" : "Dante Vaughan",
+      "street" : "1618 Primis Street",
+      "city" : "Darwin",
+      "zip" : "4856",
+      "country" : "France",
+      "clinetID" : "9D926E59-43B5-22D6-C68E-2164C99AE15D",
+      "groupedSequenceID" : ""
+    } ],
+    "000036" : [ {
+      "sequenceID" : "000036",
+      "group" : "E",
+      "address1" : "Meredith Cherry",
+      "street" : "Ap #716-1522 Consequat Avenue",
+      "city" : "Broken Hill",
+      "zip" : "978767",
+      "country" : "France",
+      "clinetID" : "7895B3DD-46BF-EB2B-B0FD-941F53722B09",
+      "groupedSequenceID" : ""
+    } ],
+    "000064" : [ {
+      "sequenceID" : "000064",
+      "group" : "E",
+      "address1" : "Allistair Mayo",
+      "street" : "Ap #817-5249 Aliquam Street",
+      "city" : "Katsina",
+      "zip" : "873602",
+      "country" : "France",
+      "clinetID" : "2CAE9B96-5B3D-B5BE-B1B3-E7EDBB2D306E",
+      "groupedSequenceID" : ""
+    } ],
+    "000083" : [ {
+      "sequenceID" : "000083",
+      "group" : "E",
+      "address1" : "Priscilla Buckley",
+      "street" : "414 Curabitur Road",
+      "city" : "Kozan",
+      "zip" : "74796-380",
+      "country" : "France",
+      "clinetID" : "5F1BC1E0-A98F-A9F5-BF5D-8702AC2D27C3",
+      "groupedSequenceID" : ""
+    } ],
+    "000110" : [ {
+      "sequenceID" : "000110",
+      "group" : "E",
+      "address1" : "Joelle Armstrong",
+      "street" : "Ap #780-2011 Duis Avenue",
+      "city" : "Vaulx-lez-Chimay",
+      "zip" : "836555",
+      "country" : "France",
+      "clinetID" : "D5752647-24C4-CC3A-5F8C-51E2B4E8DDD2",
+      "groupedSequenceID" : ""
+    } ],
+    "000123" : [ {
+      "sequenceID" : "000123",
+      "group" : "E",
+      "address1" : "Anastasia Wallace",
+      "street" : "433-5305 Interdum Avenue",
+      "city" : "Owerri",
+      "zip" : "8462",
+      "country" : "France",
+      "clinetID" : "D3C697ED-5CA5-5A86-7576-73826D705371",
+      "groupedSequenceID" : ""
+    } ],
+    "000126" : [ {
+      "sequenceID" : "000126",
+      "group" : "E",
+      "address1" : "Herman Massey",
+      "street" : "468-2348 Placerat Road",
+      "city" : "Sant'Egidio alla Vibrata",
+      "zip" : "45138",
+      "country" : "France",
+      "clinetID" : "149B78F7-2C5B-D420-7F9F-95E30D82D206",
+      "groupedSequenceID" : ""
+    } ],
+    "000147" : [ {
+      "sequenceID" : "000147",
+      "group" : "E",
+      "address1" : "Perry Hooper",
+      "street" : "Ap #939-7386 Lobortis Av.",
+      "city" : "Chimay",
+      "zip" : "41606",
+      "country" : "France",
+      "clinetID" : "6E48A1E8-D0F6-3EF6-F226-2B85C745A1EA",
+      "groupedSequenceID" : ""
+    } ]
+  }
+}

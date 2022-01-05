@@ -1,0 +1,169 @@
+{
+  "D_United States" : {
+    "000023" : [ {
+      "sequenceID" : "000023",
+      "group" : "D",
+      "address1" : "Jason Henderson",
+      "street" : "Ap #512-3738 Ut Rd.",
+      "city" : "Badajoz",
+      "zip" : "24938",
+      "country" : "United States",
+      "clinetID" : "11271BC6-10C6-1276-BBBA-55B4E64DDBD0",
+      "groupedSequenceID" : ""
+    } ],
+    "000035" : [ {
+      "sequenceID" : "000035",
+      "group" : "D",
+      "address1" : "Sasha Cruz",
+      "street" : "5101 Mauris Road",
+      "city" : "Puerto Vallarta",
+      "zip" : "Y2A 3QE",
+      "country" : "United States",
+      "clinetID" : "7B3A3B3A-F57E-1CDD-7C21-99E2E873C837",
+      "groupedSequenceID" : ""
+    } ],
+    "000045" : [ {
+      "sequenceID" : "000045",
+      "group" : "D",
+      "address1" : "Kenneth Whitaker",
+      "street" : "114-2352 Scelerisque St.",
+      "city" : "Timaru",
+      "zip" : "5674",
+      "country" : "United States",
+      "clinetID" : "765A5E2B-348A-6A4F-BA99-A62A4E7A44E0",
+      "groupedSequenceID" : ""
+    } ],
+    "000059" : [ {
+      "sequenceID" : "000059",
+      "group" : "D",
+      "address1" : "Elton Duncan",
+      "street" : "Ap #756-4356 Nunc Ave",
+      "city" : "Otegem",
+      "zip" : "6141",
+      "country" : "United States",
+      "clinetID" : "EE4C377A-41D5-C498-688B-383B3A43FB14",
+      "groupedSequenceID" : ""
+    } ],
+    "000063" : [ {
+      "sequenceID" : "000063",
+      "group" : "D",
+      "address1" : "Hannah Newman",
+      "street" : "371-5060 Molestie Rd.",
+      "city" : "Lonquimay",
+      "zip" : "7024",
+      "country" : "United States",
+      "clinetID" : "C27E378B-5B1D-8D9C-9ACE-69977AEA8ECC",
+      "groupedSequenceID" : ""
+    } ],
+    "000082" : [ {
+      "sequenceID" : "000082",
+      "group" : "D",
+      "address1" : "Katell Justice",
+      "street" : "940-8814 Dui. Street",
+      "city" : "Manizales",
+      "zip" : "739157",
+      "country" : "United States",
+      "clinetID" : "9B6DE917-8963-39BC-848B-E298754D76B5",
+      "groupedSequenceID" : ""
+    } ],
+    "000092" : [ {
+      "sequenceID" : "000092",
+      "group" : "D",
+      "address1" : "Malachi Gordon",
+      "street" : "949-9513 Porttitor Avenue",
+      "city" : "Vienna",
+      "zip" : "40813",
+      "country" : "United States",
+      "clinetID" : "498C529A-9194-43F7-AD69-B3446BC542A1",
+      "groupedSequenceID" : ""
+    } ],
+    "000101" : [ {
+      "sequenceID" : "000101",
+      "group" : "D",
+      "address1" : "Carly Hester",
+      "street" : "Ap #800-8916 Per St.",
+      "city" : "Villa Latina",
+      "zip" : "17397",
+      "country" : "United States",
+      "clinetID" : "F7DF8963-5481-671D-B6E0-CEA3E1661485",
+      "groupedSequenceID" : ""
+    } ],
+    "000109" : [ {
+      "sequenceID" : "000109",
+      "group" : "D",
+      "address1" : "Lysandra Black",
+      "street" : "493-5849 Urna. Road",
+      "city" : "Mokpo",
+      "zip" : "71076",
+      "country" : "United States",
+      "clinetID" : "2412764B-7826-B57F-8365-DEA8D80038AE",
+      "groupedSequenceID" : ""
+    } ],
+    "000122" : [ {
+      "sequenceID" : "000122",
+      "group" : "D",
+      "address1" : "Trevor Lee",
+      "street" : "Ap #367-7242 Sit Avenue",
+      "city" : "Galway",
+      "zip" : "MO4P 6CG",
+      "country" : "United States",
+      "clinetID" : "3CE35120-BAFE-4AEC-9DB3-3C35D93E93E8",
+      "groupedSequenceID" : ""
+    } ],
+    "000133" : [ {
+      "sequenceID" : "000133",
+      "group" : "D",
+      "address1" : "Russell Gentry",
+      "street" : "141-2779 Purus Ave",
+      "city" : "Cheyenne",
+      "zip" : "771342",
+      "country" : "United States",
+      "clinetID" : "CC8DFFB1-5800-3E94-2EC7-15B739797431",
+      "groupedSequenceID" : ""
+    } ],
+    "000137" : [ {
+      "sequenceID" : "000137",
+      "group" : "D",
+      "address1" : "Buffy Sanchez",
+      "street" : "354-1031 Nec Avenue",
+      "city" : "Chakwal",
+      "zip" : "2756",
+      "country" : "United States",
+      "clinetID" : "5089E27C-2748-B12C-F1AE-373210C75E65",
+      "groupedSequenceID" : ""
+    } ],
+    "000141" : [ {
+      "sequenceID" : "000141",
+      "group" : "D",
+      "address1" : "Kaseem Francis",
+      "street" : "Ap #746-9018 Justo. Rd.",
+      "city" : "Gebze",
+      "zip" : "85424-71316",
+      "country" : "United States",
+      "clinetID" : "EE882C69-9A99-B42C-1BA8-9313B075D750",
+      "groupedSequenceID" : ""
+    } ],
+    "000169" : [ {
+      "sequenceID" : "000169",
+      "group" : "D",
+      "address1" : "Colby Young",
+      "street" : "604-3487 Mauris Avenue",
+      "city" : "Metro",
+      "zip" : "Z4 5DM",
+      "country" : "United States",
+      "clinetID" : "A548A9BC-6AE2-8E99-52B4-0A5BA4E465D5",
+      "groupedSequenceID" : ""
+    } ],
+    "000173" : [ {
+      "sequenceID" : "000173",
+      "group" : "D",
+      "address1" : "Rama Mathews",
+      "street" : "Ap #872-8601 Ut Ave",
+      "city" : "Yeosu",
+      "zip" : "84-607",
+      "country" : "United States",
+      "clinetID" : "9A9D72D2-8BB8-B8C2-D623-0DD145EA93B3",
+      "groupedSequenceID" : ""
+    } ]
+  }
+}
