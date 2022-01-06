@@ -1,48 +1,46 @@
 {
-  "G_France" : {
-    "000160" : [ {
-      "sequenceID" : "000160",
-      "group" : "G",
-      "address1" : "Hermione Norton",
-      "street" : "Ap #301-8697 Purus. Rd.",
-      "city" : "Sangju",
-      "zip" : "407775",
-      "country" : "France",
-      "clinetID" : "839A00DC-9BAD-4B23-3524-C01491268757",
-      "groupedSequenceID" : ""
-    } ],
-    "000170" : [ {
-      "sequenceID" : "000170",
-      "group" : "G",
-      "address1" : "Christian Rodgers",
-      "street" : "Ap #301-8697 Purus. Rd.",
-      "city" : "Sangju",
-      "zip" : "407775",
-      "country" : "France",
-      "clinetID" : "65A8FA1D-099D-B4A4-413C-1B96064D595E",
-      "groupedSequenceID" : ""
-    } ],
-    "000172" : [ {
-      "sequenceID" : "000172",
-      "group" : "G",
-      "address1" : "Nash Salinas",
-      "street" : "Ap #301-8697 Purus. Rd.",
-      "city" : "Sangju",
-      "zip" : "407775",
-      "country" : "France",
-      "clinetID" : "6B20DBE7-115A-719A-B53C-52C25221448B",
-      "groupedSequenceID" : ""
-    } ],
-    "000179" : [ {
-      "sequenceID" : "000179",
-      "group" : "G",
-      "address1" : "Felix Merrill",
-      "street" : "Ap #301-8697 Purus. Rd.",
-      "city" : "Sangju",
-      "zip" : "407775",
-      "country" : "France",
-      "clinetID" : "442D9E22-AC57-A42F-1AF6-814349DE7430",
-      "groupedSequenceID" : ""
-    } ]
-  }
+  "000160" : [ {
+    "sequenceID" : "000160",
+    "group" : "G",
+    "address1" : "Hermione Norton",
+    "street" : "Ap #301-8697 Purus. Rd.",
+    "city" : "Sangju",
+    "zip" : "407775",
+    "country" : "France",
+    "clinetID" : "839A00DC-9BAD-4B23-3524-C01491268757",
+    "groupedSequenceID" : ""
+  } ],
+  "000170" : [ {
+    "sequenceID" : "000170",
+    "group" : "G",
+    "address1" : "Christian Rodgers",
+    "street" : "Ap #301-8697 Purus. Rd.",
+    "city" : "Sangju",
+    "zip" : "407775",
+    "country" : "France",
+    "clinetID" : "65A8FA1D-099D-B4A4-413C-1B96064D595E",
+    "groupedSequenceID" : ""
+  } ],
+  "000172" : [ {
+    "sequenceID" : "000172",
+    "group" : "G",
+    "address1" : "Nash Salinas",
+    "street" : "Ap #301-8697 Purus. Rd.",
+    "city" : "Sangju",
+    "zip" : "407775",
+    "country" : "France",
+    "clinetID" : "6B20DBE7-115A-719A-B53C-52C25221448B",
+    "groupedSequenceID" : ""
+  } ],
+  "000179" : [ {
+    "sequenceID" : "000179",
+    "group" : "G",
+    "address1" : "Felix Merrill",
+    "street" : "Ap #301-8697 Purus. Rd.",
+    "city" : "Sangju",
+    "zip" : "407775",
+    "country" : "France",
+    "clinetID" : "442D9E22-AC57-A42F-1AF6-814349DE7430",
+    "groupedSequenceID" : ""
+  } ]
 }

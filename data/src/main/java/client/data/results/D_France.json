@@ -1,191 +1,189 @@
 {
-  "D_France" : {
-    "000005" : [ {
-      "sequenceID" : "000005",
-      "group" : "D",
-      "address1" : "Margaret Oneal",
-      "street" : "862-3081 Donec Street",
-      "city" : "Edremit",
-      "zip" : "758185",
-      "country" : "France",
-      "clinetID" : "EBD14318-D666-6375-76C7-D8AB807611E4",
-      "groupedSequenceID" : ""
-    } ],
-    "000009" : [ {
-      "sequenceID" : "000009",
-      "group" : "D",
-      "address1" : "Chaney Pierce",
-      "street" : "Ap #161-7851 Nisi. Rd.",
-      "city" : "Inner Mongolia",
-      "zip" : "188773",
-      "country" : "France",
-      "clinetID" : "6E88192D-D5C2-7EC1-CA4A-88449E56CD70",
-      "groupedSequenceID" : ""
-    } ],
-    "000013" : [ {
-      "sequenceID" : "000013",
-      "group" : "D",
-      "address1" : "Eaton Cline",
-      "street" : "429 Libero. Rd.",
-      "city" : "San Isidro",
-      "zip" : "715841",
-      "country" : "France",
-      "clinetID" : "876B040D-5ED5-3F74-C2B1-BC56D0EA56C7",
-      "groupedSequenceID" : ""
-    } ],
-    "000019" : [ {
-      "sequenceID" : "000019",
-      "group" : "D",
-      "address1" : "Basil Stewart",
-      "street" : "Ap #120-5307 Vel Road",
-      "city" : "Emmen",
-      "zip" : "303071",
-      "country" : "France",
-      "clinetID" : "DE1C3274-16A9-A9E9-55B1-CAA7C3A9BC98",
-      "groupedSequenceID" : ""
-    } ],
-    "000027" : [ {
-      "sequenceID" : "000027",
-      "group" : "D",
-      "address1" : "Dale Justice",
-      "street" : "673-6448 Non Road",
-      "city" : "Yogyakarta",
-      "zip" : "45444",
-      "country" : "France",
-      "clinetID" : "2C892F8E-8B5E-4EDD-2E4D-1DB4B5D5D983",
-      "groupedSequenceID" : ""
-    } ],
-    "000041" : [ {
-      "sequenceID" : "000041",
-      "group" : "D",
-      "address1" : "Sage Wilcox",
-      "street" : "110-3974 Mauris Road",
-      "city" : "Gmunden",
-      "zip" : "3395",
-      "country" : "France",
-      "clinetID" : "D736C7B2-8936-F63B-E9EE-2B5936BDE595",
-      "groupedSequenceID" : ""
-    } ],
-    "000049" : [ {
-      "sequenceID" : "000049",
-      "group" : "D",
-      "address1" : "Fulton Gallagher",
-      "street" : "Ap #912-9209 Varius. Av.",
-      "city" : "Saint Paul",
-      "zip" : "51708",
-      "country" : "France",
-      "clinetID" : "E8011CB7-B2F4-D0D4-1081-DE16BED2BC23",
-      "groupedSequenceID" : ""
-    } ],
-    "000055" : [ {
-      "sequenceID" : "000055",
-      "group" : "D",
-      "address1" : "Colt Roberts",
-      "street" : "Ap #363-1542 Mauris St.",
-      "city" : "Valbrevenna",
-      "zip" : "37772",
-      "country" : "France",
-      "clinetID" : "1A4E7293-B75E-E9D4-89E3-F469F4A9642E",
-      "groupedSequenceID" : ""
-    } ],
-    "000071" : [ {
-      "sequenceID" : "000071",
-      "group" : "D",
-      "address1" : "Ginger Sampson",
-      "street" : "937-8869 Vel Street",
-      "city" : "Temuka",
-      "zip" : "63483",
-      "country" : "France",
-      "clinetID" : "3A5AC694-1348-BA8A-23A9-6B1588566A93",
-      "groupedSequenceID" : ""
-    } ],
-    "000074" : [ {
-      "sequenceID" : "000074",
-      "group" : "D",
-      "address1" : "Aristotle Duke",
-      "street" : "8164 Ipsum Street",
-      "city" : "Lauterach",
-      "zip" : "22213",
-      "country" : "France",
-      "clinetID" : "0A7208B2-7045-8681-5758-1782C8E6CC9D",
-      "groupedSequenceID" : ""
-    } ],
-    "000088" : [ {
-      "sequenceID" : "000088",
-      "group" : "D",
-      "address1" : "Henry Whitney",
-      "street" : "Ap #955-1555 Eget Street",
-      "city" : "Edmundston",
-      "zip" : "32648",
-      "country" : "France",
-      "clinetID" : "C4583395-9DBF-694B-2DA5-21C3D85A4253",
-      "groupedSequenceID" : ""
-    } ],
-    "000096" : [ {
-      "sequenceID" : "000096",
-      "group" : "D",
-      "address1" : "Thomas Dickerson",
-      "street" : "Ap #521-8673 Vitae Avenue",
-      "city" : "La Thuile",
-      "zip" : "4639",
-      "country" : "France",
-      "clinetID" : "2919DF16-5578-8AAE-4B26-6989195ADBF8",
-      "groupedSequenceID" : ""
-    } ],
-    "000105" : [ {
-      "sequenceID" : "000105",
-      "group" : "D",
-      "address1" : "Alice Villarreal",
-      "street" : "Ap #995-7631 Tempor Rd.",
-      "city" : "Bajaur Agency",
-      "zip" : "614761",
-      "country" : "France",
-      "clinetID" : "4D4916AB-70D4-453E-5336-712FD5764946",
-      "groupedSequenceID" : ""
-    } ],
-    "000125" : [ {
-      "sequenceID" : "000125",
-      "group" : "D",
-      "address1" : "Zeph Holcomb",
-      "street" : "812-8629 Dapibus Rd.",
-      "city" : "Tampa",
-      "zip" : "24283",
-      "country" : "France",
-      "clinetID" : "9565783C-5958-A5AA-EA2A-AF5833A9BF92",
-      "groupedSequenceID" : ""
-    } ],
-    "000154" : [ {
-      "sequenceID" : "000154",
-      "group" : "D",
-      "address1" : "Elaine Bradford",
-      "street" : "Ap #140-2667 In St.",
-      "city" : "Roubaix",
-      "zip" : "U3O 2PH",
-      "country" : "France",
-      "clinetID" : "135795C6-313B-47B9-2577-36A532347472",
-      "groupedSequenceID" : ""
-    } ],
-    "000177" : [ {
-      "sequenceID" : "000177",
-      "group" : "D",
-      "address1" : "Scarlett Best",
-      "street" : "142-3426 Dui. Street",
-      "city" : "Breda",
-      "zip" : "814865",
-      "country" : "France",
-      "clinetID" : "C80AED77-56FA-8D9D-B48C-ADCE08D4C7D5",
-      "groupedSequenceID" : ""
-    } ],
-    "000181" : [ {
-      "sequenceID" : "000181",
-      "group" : "D",
-      "address1" : "Nora Fry",
-      "street" : "378-3619 Lectus. Avenue",
-      "city" : "Olinda",
-      "zip" : "18281",
-      "country" : "France",
-      "clinetID" : "73CBBBD7-1198-DC5C-71DE-B6974115C4C0",
-      "groupedSequenceID" : ""
-    } ]
-  }
+  "000005" : [ {
+    "sequenceID" : "000005",
+    "group" : "D",
+    "address1" : "Margaret Oneal",
+    "street" : "862-3081 Donec Street",
+    "city" : "Edremit",
+    "zip" : "758185",
+    "country" : "France",
+    "clinetID" : "EBD14318-D666-6375-76C7-D8AB807611E4",
+    "groupedSequenceID" : ""
+  } ],
+  "000009" : [ {
+    "sequenceID" : "000009",
+    "group" : "D",
+    "address1" : "Chaney Pierce",
+    "street" : "Ap #161-7851 Nisi. Rd.",
+    "city" : "Inner Mongolia",
+    "zip" : "188773",
+    "country" : "France",
+    "clinetID" : "6E88192D-D5C2-7EC1-CA4A-88449E56CD70",
+    "groupedSequenceID" : ""
+  } ],
+  "000013" : [ {
+    "sequenceID" : "000013",
+    "group" : "D",
+    "address1" : "Eaton Cline",
+    "street" : "429 Libero. Rd.",
+    "city" : "San Isidro",
+    "zip" : "715841",
+    "country" : "France",
+    "clinetID" : "876B040D-5ED5-3F74-C2B1-BC56D0EA56C7",
+    "groupedSequenceID" : ""
+  } ],
+  "000019" : [ {
+    "sequenceID" : "000019",
+    "group" : "D",
+    "address1" : "Basil Stewart",
+    "street" : "Ap #120-5307 Vel Road",
+    "city" : "Emmen",
+    "zip" : "303071",
+    "country" : "France",
+    "clinetID" : "DE1C3274-16A9-A9E9-55B1-CAA7C3A9BC98",
+    "groupedSequenceID" : ""
+  } ],
+  "000027" : [ {
+    "sequenceID" : "000027",
+    "group" : "D",
+    "address1" : "Dale Justice",
+    "street" : "673-6448 Non Road",
+    "city" : "Yogyakarta",
+    "zip" : "45444",
+    "country" : "France",
+    "clinetID" : "2C892F8E-8B5E-4EDD-2E4D-1DB4B5D5D983",
+    "groupedSequenceID" : ""
+  } ],
+  "000041" : [ {
+    "sequenceID" : "000041",
+    "group" : "D",
+    "address1" : "Sage Wilcox",
+    "street" : "110-3974 Mauris Road",
+    "city" : "Gmunden",
+    "zip" : "3395",
+    "country" : "France",
+    "clinetID" : "D736C7B2-8936-F63B-E9EE-2B5936BDE595",
+    "groupedSequenceID" : ""
+  } ],
+  "000049" : [ {
+    "sequenceID" : "000049",
+    "group" : "D",
+    "address1" : "Fulton Gallagher",
+    "street" : "Ap #912-9209 Varius. Av.",
+    "city" : "Saint Paul",
+    "zip" : "51708",
+    "country" : "France",
+    "clinetID" : "E8011CB7-B2F4-D0D4-1081-DE16BED2BC23",
+    "groupedSequenceID" : ""
+  } ],
+  "000055" : [ {
+    "sequenceID" : "000055",
+    "group" : "D",
+    "address1" : "Colt Roberts",
+    "street" : "Ap #363-1542 Mauris St.",
+    "city" : "Valbrevenna",
+    "zip" : "37772",
+    "country" : "France",
+    "clinetID" : "1A4E7293-B75E-E9D4-89E3-F469F4A9642E",
+    "groupedSequenceID" : ""
+  } ],
+  "000071" : [ {
+    "sequenceID" : "000071",
+    "group" : "D",
+    "address1" : "Ginger Sampson",
+    "street" : "937-8869 Vel Street",
+    "city" : "Temuka",
+    "zip" : "63483",
+    "country" : "France",
+    "clinetID" : "3A5AC694-1348-BA8A-23A9-6B1588566A93",
+    "groupedSequenceID" : ""
+  } ],
+  "000074" : [ {
+    "sequenceID" : "000074",
+    "group" : "D",
+    "address1" : "Aristotle Duke",
+    "street" : "8164 Ipsum Street",
+    "city" : "Lauterach",
+    "zip" : "22213",
+    "country" : "France",
+    "clinetID" : "0A7208B2-7045-8681-5758-1782C8E6CC9D",
+    "groupedSequenceID" : ""
+  } ],
+  "000088" : [ {
+    "sequenceID" : "000088",
+    "group" : "D",
+    "address1" : "Henry Whitney",
+    "street" : "Ap #955-1555 Eget Street",
+    "city" : "Edmundston",
+    "zip" : "32648",
+    "country" : "France",
+    "clinetID" : "C4583395-9DBF-694B-2DA5-21C3D85A4253",
+    "groupedSequenceID" : ""
+  } ],
+  "000096" : [ {
+    "sequenceID" : "000096",
+    "group" : "D",
+    "address1" : "Thomas Dickerson",
+    "street" : "Ap #521-8673 Vitae Avenue",
+    "city" : "La Thuile",
+    "zip" : "4639",
+    "country" : "France",
+    "clinetID" : "2919DF16-5578-8AAE-4B26-6989195ADBF8",
+    "groupedSequenceID" : ""
+  } ],
+  "000105" : [ {
+    "sequenceID" : "000105",
+    "group" : "D",
+    "address1" : "Alice Villarreal",
+    "street" : "Ap #995-7631 Tempor Rd.",
+    "city" : "Bajaur Agency",
+    "zip" : "614761",
+    "country" : "France",
+    "clinetID" : "4D4916AB-70D4-453E-5336-712FD5764946",
+    "groupedSequenceID" : ""
+  } ],
+  "000125" : [ {
+    "sequenceID" : "000125",
+    "group" : "D",
+    "address1" : "Zeph Holcomb",
+    "street" : "812-8629 Dapibus Rd.",
+    "city" : "Tampa",
+    "zip" : "24283",
+    "country" : "France",
+    "clinetID" : "9565783C-5958-A5AA-EA2A-AF5833A9BF92",
+    "groupedSequenceID" : ""
+  } ],
+  "000154" : [ {
+    "sequenceID" : "000154",
+    "group" : "D",
+    "address1" : "Elaine Bradford",
+    "street" : "Ap #140-2667 In St.",
+    "city" : "Roubaix",
+    "zip" : "U3O 2PH",
+    "country" : "France",
+    "clinetID" : "135795C6-313B-47B9-2577-36A532347472",
+    "groupedSequenceID" : ""
+  } ],
+  "000177" : [ {
+    "sequenceID" : "000177",
+    "group" : "D",
+    "address1" : "Scarlett Best",
+    "street" : "142-3426 Dui. Street",
+    "city" : "Breda",
+    "zip" : "814865",
+    "country" : "France",
+    "clinetID" : "C80AED77-56FA-8D9D-B48C-ADCE08D4C7D5",
+    "groupedSequenceID" : ""
+  } ],
+  "000181" : [ {
+    "sequenceID" : "000181",
+    "group" : "D",
+    "address1" : "Nora Fry",
+    "street" : "378-3619 Lectus. Avenue",
+    "city" : "Olinda",
+    "zip" : "18281",
+    "country" : "France",
+    "clinetID" : "73CBBBD7-1198-DC5C-71DE-B6974115C4C0",
+    "groupedSequenceID" : ""
+  } ]
 }
