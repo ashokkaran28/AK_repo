@@ -52,8 +52,6 @@ public class Initiator {
 					.readValues(csvFile);
 
 			// Make sure to skip the Header
-			// List<Customer> customers =
-			// personIter.readAll().stream().skip(1).collect(Collectors.toList());
 			List<Customer> customers = customerIter.readAll().stream().skip(1).collect(Collector.of(Accumulator::new,
 					Accumulator::accumulate, Accumulator::combine, Accumulator::getCustomers));
 
