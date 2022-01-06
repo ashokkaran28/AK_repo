@@ -54,10 +54,15 @@ public class Initiator {
 			// Make sure to skip the Header
 			List<Customer> customers = customerIter.readAll().stream().skip(1).collect(Collector.of(Accumulator::new,
 					Accumulator::accumulate, Accumulator::combine, Accumulator::getCustomers));
-
+			
+			//Creating the comparator
+			Comparator<Customer> comparator = Comparator
+                    .comparing(Customer::getCountry)
+                    .thenComparing(Customer::getSequenceID);			
+			
 			// Using Stream API to group and sort the items as per requirement given
 			Map<String, Map<String, Map<String, List<Customer>>>> groupedCustomers = customers.stream()
-					.sorted(Comparator.comparing(Customer::getSequenceID))
+					.sorted(comparator)
 					.collect(Collectors.groupingBy(Customer::getGroup, groupByCountryAndSequenceID()));
 
 			ObjectMapper mapper = new ObjectMapper();
@@ -79,7 +84,7 @@ public class Initiator {
      * This method returns a map after grouping country and sequenceIds
      */
 	private static Collector<Customer, ?, Map<String, Map<String, List<Customer>>>> groupByCountryAndSequenceID() {
-		return Collectors.groupingBy(Customer::getCountry,
+		return Collectors.groupingBy(Customer::getCountry,LinkedHashMap::new,
 				Collectors.groupingBy(Customer::getSequenceID, LinkedHashMap::new, Collectors.toList()));
 	}
 	
