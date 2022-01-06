@@ -1,4 +1,4 @@
-package client.data;
+package client.data.helper;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -28,7 +28,7 @@ public class Accumulator {
 	/**
      * Constructor
      */
-	Accumulator() {
+	public Accumulator() {
 		customers = new ArrayList<>();
 		groupedSequenceID = new StringBuilder("");
 	}
@@ -39,7 +39,7 @@ public class Accumulator {
      * Also during grouping lowest sequenceID group is picked and 
      * all other sequenceIDs grouped are added to {@code groupedSequenceID} field
      */
-	void accumulate(Customer cust) {
+	public void accumulate(Customer cust) {
 		if (sequenceID == null && street == null && city == null && zip == null && country == null) {
 			sequenceID = cust.getSequenceID();
 			street = cust.getStreet();
@@ -78,7 +78,7 @@ public class Accumulator {
 		}
 	}
 	
-	Accumulator combine(Accumulator other) {
+	public Accumulator combine(Accumulator other) {
 		if (Integer.valueOf(this.sequenceID) < Integer.valueOf(other.getSequenceID())) {
 			return this;
 		} else if (Integer.valueOf(this.sequenceID) > Integer.valueOf(other.getSequenceID())) {
@@ -89,7 +89,7 @@ public class Accumulator {
 		}
 	}
 
-	List<Customer> getCustomers() {
+	public List<Customer> getCustomers() {
 		return customers;
 	}
 
