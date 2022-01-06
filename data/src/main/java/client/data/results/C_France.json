@@ -1,191 +1,189 @@
 {
-  "C_France" : {
-    "000006" : [ {
-      "sequenceID" : "000006",
-      "group" : "C",
-      "address1" : "Camille Kent",
-      "street" : "270-7783 Elit St.",
-      "city" : "Tumba",
-      "zip" : "554755",
-      "country" : "France",
-      "clinetID" : "3E77803D-3882-D87A-91F2-76671FF96EC6",
-      "groupedSequenceID" : ""
-    } ],
-    "000017" : [ {
-      "sequenceID" : "000017",
-      "group" : "C",
-      "address1" : "Charissa Rivers",
-      "street" : "262-2543 Rhoncus. St.",
-      "city" : "Calama",
-      "zip" : "6663",
-      "country" : "France",
-      "clinetID" : "EE85B631-BC6C-DAB4-BFD1-F95C82486D13",
-      "groupedSequenceID" : ""
-    } ],
-    "000021" : [ {
-      "sequenceID" : "000021",
-      "group" : "C",
-      "address1" : "Aurora Valenzuela",
-      "street" : "Ap #816-5268 Sit Av.",
-      "city" : "Arauca",
-      "zip" : "2686",
-      "country" : "France",
-      "clinetID" : "9B826CCD-AC96-7D08-DF29-AE872217D4AE",
-      "groupedSequenceID" : ""
-    } ],
-    "000042" : [ {
-      "sequenceID" : "000042",
-      "group" : "C",
-      "address1" : "Brenda Colon",
-      "street" : "Ap #378-1264 Erat Av.",
-      "city" : "Thalassery",
-      "zip" : "IK77 7IL",
-      "country" : "France",
-      "clinetID" : "C687EB02-BD8E-850B-9CB0-07EFDB9E234A",
-      "groupedSequenceID" : ""
-    } ],
-    "000043" : [ {
-      "sequenceID" : "000043",
-      "group" : "C",
-      "address1" : "Colton Knox",
-      "street" : "Ap #394-9169 Duis Av.",
-      "city" : "Puno",
-      "zip" : "699814",
-      "country" : "France",
-      "clinetID" : "11B8DC8D-AE2A-2B49-3BB1-C2B20377D918",
-      "groupedSequenceID" : ""
-    } ],
-    "000048" : [ {
-      "sequenceID" : "000048",
-      "group" : "C",
-      "address1" : "John Hubbard",
-      "street" : "828-5141 Phasellus Street",
-      "city" : "Baden",
-      "zip" : "22877",
-      "country" : "France",
-      "clinetID" : "989CA4C5-1CA8-169F-2425-AA15285C8A55",
-      "groupedSequenceID" : ""
-    } ],
-    "000053" : [ {
-      "sequenceID" : "000053",
-      "group" : "C",
-      "address1" : "Yvonne Hensley",
-      "street" : "952-3736 Mauris Rd.",
-      "city" : "Kemerovo",
-      "zip" : "907754",
-      "country" : "France",
-      "clinetID" : "473E8D32-D29C-9E66-69D2-E7A83AF5D339",
-      "groupedSequenceID" : ""
-    } ],
-    "000058" : [ {
-      "sequenceID" : "000058",
-      "group" : "C",
-      "address1" : "Dane Hancock",
-      "street" : "688-2543 In St.",
-      "city" : "Juliaca",
-      "zip" : "31525",
-      "country" : "France",
-      "clinetID" : "E84ED233-157E-B26E-75D3-8451B144B783",
-      "groupedSequenceID" : ""
-    } ],
-    "000081" : [ {
-      "sequenceID" : "000081",
-      "group" : "C",
-      "address1" : "Igor Manning",
-      "street" : "1002 Justo St.",
-      "city" : "Jeongeup",
-      "zip" : "6171",
-      "country" : "France",
-      "clinetID" : "0BD105E5-2273-2B3F-E2EE-9F014E1CBABF",
-      "groupedSequenceID" : ""
-    } ],
-    "000089" : [ {
-      "sequenceID" : "000089",
-      "group" : "C",
-      "address1" : "Yuri Mckay",
-      "street" : "Ap #623-8370 Morbi Avenue",
-      "city" : "Dublin",
-      "zip" : "66338",
-      "country" : "France",
-      "clinetID" : "F4E1FC90-DDAB-35F3-45F3-8EB6834B7DF2",
-      "groupedSequenceID" : ""
-    } ],
-    "000103" : [ {
-      "sequenceID" : "000103",
-      "group" : "C",
-      "address1" : "Rahim Schwartz",
-      "street" : "Ap #793-8695 Urna. Av.",
-      "city" : "Beijing",
-      "zip" : "11941",
-      "country" : "France",
-      "clinetID" : "952658FC-E2A3-7C58-10A5-13D33CC2A3DE",
-      "groupedSequenceID" : ""
-    } ],
-    "000104" : [ {
-      "sequenceID" : "000104",
-      "group" : "C",
-      "address1" : "Quinn Glenn",
-      "street" : "973-3025 Quis St.",
-      "city" : "Canela",
-      "zip" : "753879",
-      "country" : "France",
-      "clinetID" : "DFB82A93-E4E2-B8BC-5CE5-C55AF2848F25",
-      "groupedSequenceID" : ""
-    } ],
-    "000121" : [ {
-      "sequenceID" : "000121",
-      "group" : "C",
-      "address1" : "Oliver Ratliff",
-      "street" : "Ap #908-7870 Ac St.",
-      "city" : "Cork",
-      "zip" : "551873",
-      "country" : "France",
-      "clinetID" : "1C3CEE51-9744-34C7-E343-E285D3884F34",
-      "groupedSequenceID" : ""
-    } ],
-    "000132" : [ {
-      "sequenceID" : "000132",
-      "group" : "C",
-      "address1" : "Elliott Marks",
-      "street" : "Ap #580-1400 Euismod Rd.",
-      "city" : "Gwangyang",
-      "zip" : "787892",
-      "country" : "France",
-      "clinetID" : "8D0EAE26-5735-5C6C-EADA-4BA3E7A3D9B4",
-      "groupedSequenceID" : ""
-    } ],
-    "000135" : [ {
-      "sequenceID" : "000135",
-      "group" : "C",
-      "address1" : "Hedley Kidd",
-      "street" : "2053 Vel Rd.",
-      "city" : "Ovalle",
-      "zip" : "45711",
-      "country" : "France",
-      "clinetID" : "43DAECC1-8FDC-C7B4-AD49-2E2217C26493",
-      "groupedSequenceID" : ""
-    } ],
-    "000153" : [ {
-      "sequenceID" : "000153",
-      "group" : "C",
-      "address1" : "Charles Kinney",
-      "street" : "182-2808 Luctus Street",
-      "city" : "Cork",
-      "zip" : "95232",
-      "country" : "France",
-      "clinetID" : "DDA45C54-22B8-9749-9985-1BBBB8239D6D",
-      "groupedSequenceID" : ""
-    } ],
-    "000175" : [ {
-      "sequenceID" : "000175",
-      "group" : "C",
-      "address1" : "Carl Ashley",
-      "street" : "Ap #126-6083 Pellentesque Av.",
-      "city" : "Zierikzee",
-      "zip" : "6978 FI",
-      "country" : "France",
-      "clinetID" : "168C3ED1-88B5-7C25-2180-F7E3B0515364",
-      "groupedSequenceID" : ""
-    } ]
-  }
+  "000006" : [ {
+    "sequenceID" : "000006",
+    "group" : "C",
+    "address1" : "Camille Kent",
+    "street" : "270-7783 Elit St.",
+    "city" : "Tumba",
+    "zip" : "554755",
+    "country" : "France",
+    "clinetID" : "3E77803D-3882-D87A-91F2-76671FF96EC6",
+    "groupedSequenceID" : ""
+  } ],
+  "000017" : [ {
+    "sequenceID" : "000017",
+    "group" : "C",
+    "address1" : "Charissa Rivers",
+    "street" : "262-2543 Rhoncus. St.",
+    "city" : "Calama",
+    "zip" : "6663",
+    "country" : "France",
+    "clinetID" : "EE85B631-BC6C-DAB4-BFD1-F95C82486D13",
+    "groupedSequenceID" : ""
+  } ],
+  "000021" : [ {
+    "sequenceID" : "000021",
+    "group" : "C",
+    "address1" : "Aurora Valenzuela",
+    "street" : "Ap #816-5268 Sit Av.",
+    "city" : "Arauca",
+    "zip" : "2686",
+    "country" : "France",
+    "clinetID" : "9B826CCD-AC96-7D08-DF29-AE872217D4AE",
+    "groupedSequenceID" : ""
+  } ],
+  "000042" : [ {
+    "sequenceID" : "000042",
+    "group" : "C",
+    "address1" : "Brenda Colon",
+    "street" : "Ap #378-1264 Erat Av.",
+    "city" : "Thalassery",
+    "zip" : "IK77 7IL",
+    "country" : "France",
+    "clinetID" : "C687EB02-BD8E-850B-9CB0-07EFDB9E234A",
+    "groupedSequenceID" : ""
+  } ],
+  "000043" : [ {
+    "sequenceID" : "000043",
+    "group" : "C",
+    "address1" : "Colton Knox",
+    "street" : "Ap #394-9169 Duis Av.",
+    "city" : "Puno",
+    "zip" : "699814",
+    "country" : "France",
+    "clinetID" : "11B8DC8D-AE2A-2B49-3BB1-C2B20377D918",
+    "groupedSequenceID" : ""
+  } ],
+  "000048" : [ {
+    "sequenceID" : "000048",
+    "group" : "C",
+    "address1" : "John Hubbard",
+    "street" : "828-5141 Phasellus Street",
+    "city" : "Baden",
+    "zip" : "22877",
+    "country" : "France",
+    "clinetID" : "989CA4C5-1CA8-169F-2425-AA15285C8A55",
+    "groupedSequenceID" : ""
+  } ],
+  "000053" : [ {
+    "sequenceID" : "000053",
+    "group" : "C",
+    "address1" : "Yvonne Hensley",
+    "street" : "952-3736 Mauris Rd.",
+    "city" : "Kemerovo",
+    "zip" : "907754",
+    "country" : "France",
+    "clinetID" : "473E8D32-D29C-9E66-69D2-E7A83AF5D339",
+    "groupedSequenceID" : ""
+  } ],
+  "000058" : [ {
+    "sequenceID" : "000058",
+    "group" : "C",
+    "address1" : "Dane Hancock",
+    "street" : "688-2543 In St.",
+    "city" : "Juliaca",
+    "zip" : "31525",
+    "country" : "France",
+    "clinetID" : "E84ED233-157E-B26E-75D3-8451B144B783",
+    "groupedSequenceID" : ""
+  } ],
+  "000081" : [ {
+    "sequenceID" : "000081",
+    "group" : "C",
+    "address1" : "Igor Manning",
+    "street" : "1002 Justo St.",
+    "city" : "Jeongeup",
+    "zip" : "6171",
+    "country" : "France",
+    "clinetID" : "0BD105E5-2273-2B3F-E2EE-9F014E1CBABF",
+    "groupedSequenceID" : ""
+  } ],
+  "000089" : [ {
+    "sequenceID" : "000089",
+    "group" : "C",
+    "address1" : "Yuri Mckay",
+    "street" : "Ap #623-8370 Morbi Avenue",
+    "city" : "Dublin",
+    "zip" : "66338",
+    "country" : "France",
+    "clinetID" : "F4E1FC90-DDAB-35F3-45F3-8EB6834B7DF2",
+    "groupedSequenceID" : ""
+  } ],
+  "000103" : [ {
+    "sequenceID" : "000103",
+    "group" : "C",
+    "address1" : "Rahim Schwartz",
+    "street" : "Ap #793-8695 Urna. Av.",
+    "city" : "Beijing",
+    "zip" : "11941",
+    "country" : "France",
+    "clinetID" : "952658FC-E2A3-7C58-10A5-13D33CC2A3DE",
+    "groupedSequenceID" : ""
+  } ],
+  "000104" : [ {
+    "sequenceID" : "000104",
+    "group" : "C",
+    "address1" : "Quinn Glenn",
+    "street" : "973-3025 Quis St.",
+    "city" : "Canela",
+    "zip" : "753879",
+    "country" : "France",
+    "clinetID" : "DFB82A93-E4E2-B8BC-5CE5-C55AF2848F25",
+    "groupedSequenceID" : ""
+  } ],
+  "000121" : [ {
+    "sequenceID" : "000121",
+    "group" : "C",
+    "address1" : "Oliver Ratliff",
+    "street" : "Ap #908-7870 Ac St.",
+    "city" : "Cork",
+    "zip" : "551873",
+    "country" : "France",
+    "clinetID" : "1C3CEE51-9744-34C7-E343-E285D3884F34",
+    "groupedSequenceID" : ""
+  } ],
+  "000132" : [ {
+    "sequenceID" : "000132",
+    "group" : "C",
+    "address1" : "Elliott Marks",
+    "street" : "Ap #580-1400 Euismod Rd.",
+    "city" : "Gwangyang",
+    "zip" : "787892",
+    "country" : "France",
+    "clinetID" : "8D0EAE26-5735-5C6C-EADA-4BA3E7A3D9B4",
+    "groupedSequenceID" : ""
+  } ],
+  "000135" : [ {
+    "sequenceID" : "000135",
+    "group" : "C",
+    "address1" : "Hedley Kidd",
+    "street" : "2053 Vel Rd.",
+    "city" : "Ovalle",
+    "zip" : "45711",
+    "country" : "France",
+    "clinetID" : "43DAECC1-8FDC-C7B4-AD49-2E2217C26493",
+    "groupedSequenceID" : ""
+  } ],
+  "000153" : [ {
+    "sequenceID" : "000153",
+    "group" : "C",
+    "address1" : "Charles Kinney",
+    "street" : "182-2808 Luctus Street",
+    "city" : "Cork",
+    "zip" : "95232",
+    "country" : "France",
+    "clinetID" : "DDA45C54-22B8-9749-9985-1BBBB8239D6D",
+    "groupedSequenceID" : ""
+  } ],
+  "000175" : [ {
+    "sequenceID" : "000175",
+    "group" : "C",
+    "address1" : "Carl Ashley",
+    "street" : "Ap #126-6083 Pellentesque Av.",
+    "city" : "Zierikzee",
+    "zip" : "6978 FI",
+    "country" : "France",
+    "clinetID" : "168C3ED1-88B5-7C25-2180-F7E3B0515364",
+    "groupedSequenceID" : ""
+  } ]
 }

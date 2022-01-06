@@ -2,7 +2,11 @@ package client.data.pojo;
 
 import com.fasterxml.jackson.annotation.JsonPropertyOrder;
 
-//POJO CSV mapper class
+/**
+ * POJO CSV mapper class
+ * 
+ * @author Ashok Kumar Karan
+ */
 @JsonPropertyOrder({ "sequenceID", "group", "address1", "street", "city", "zip", "country", "clientID" })
 public class Customer {
 
@@ -88,6 +92,9 @@ public class Customer {
 		this.clinetID = clinetID;
 	}
 
+	/**
+     * toString method has been overridden in order to better debugging the Customer class
+     */
 	@Override
 	public String toString() {
 		return "Customer [sequenceID=" + sequenceID + ", group=" + group + ", address1=" + address1 + ", street="

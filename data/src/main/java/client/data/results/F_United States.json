@@ -1,103 +1,101 @@
 {
-  "F_United States" : {
-    "000029" : [ {
-      "sequenceID" : "000029",
-      "group" : "F",
-      "address1" : "Celeste Sosa",
-      "street" : "Ap #795-1716 Nullam St.",
-      "city" : "Muzaffarpur",
-      "zip" : "6248",
-      "country" : "United States",
-      "clinetID" : "6C998ABE-8284-A77D-D041-C5C6F268B712",
-      "groupedSequenceID" : ""
-    } ],
-    "000066" : [ {
-      "sequenceID" : "000066",
-      "group" : "F",
-      "address1" : "Hammett Preston",
-      "street" : "Ap #296-4162 In Avenue",
-      "city" : "Burgos",
-      "zip" : "6928",
-      "country" : "United States",
-      "clinetID" : "AE057C32-9D8C-EFDD-EE88-484D82CB2A40",
-      "groupedSequenceID" : ""
-    } ],
-    "000077" : [ {
-      "sequenceID" : "000077",
-      "group" : "F",
-      "address1" : "Dai Fleming",
-      "street" : "571-2901 Duis Road",
-      "city" : "Hainan",
-      "zip" : "88432",
-      "country" : "United States",
-      "clinetID" : "D258FCB6-2DD6-BCA8-A68E-1EC1564ACB6D",
-      "groupedSequenceID" : ""
-    } ],
-    "000111" : [ {
-      "sequenceID" : "000111",
-      "group" : "F",
-      "address1" : "Lionel Best",
-      "street" : "202-4064 Orci. Av.",
-      "city" : "Bello",
-      "zip" : "6223 EW",
-      "country" : "United States",
-      "clinetID" : "62A64E7E-5297-0B45-D67B-C2E8305D6764",
-      "groupedSequenceID" : ""
-    } ],
-    "000112" : [ {
-      "sequenceID" : "000112",
-      "group" : "F",
-      "address1" : "Zenia Christian",
-      "street" : "Ap #921-1055 Ullamcorper Road",
-      "city" : "Wernigerode",
-      "zip" : "602815",
-      "country" : "United States",
-      "clinetID" : "4FAB7F6F-C14A-97B9-C15E-02254CBE86C9",
-      "groupedSequenceID" : ""
-    } ],
-    "000127" : [ {
-      "sequenceID" : "000127",
-      "group" : "F",
-      "address1" : "Ashely Cooper",
-      "street" : "984-1242 Orci. Rd.",
-      "city" : "Quilaco",
-      "zip" : "28035",
-      "country" : "United States",
-      "clinetID" : "3DE15F97-3F5C-CABF-126B-12B1DC2C5CCB",
-      "groupedSequenceID" : ""
-    } ],
-    "000144" : [ {
-      "sequenceID" : "000144",
-      "group" : "F",
-      "address1" : "Xaviera Downs",
-      "street" : "4283 Cras Av.",
-      "city" : "Rechnitz",
-      "zip" : "20726",
-      "country" : "United States",
-      "clinetID" : "AA5988B4-D708-7909-2968-1E79A8D962A1",
-      "groupedSequenceID" : ""
-    } ],
-    "000149" : [ {
-      "sequenceID" : "000149",
-      "group" : "F",
-      "address1" : "Oren Mendoza",
-      "street" : "Ap #515-944 Nunc St.",
-      "city" : "Barrow-in-Furness",
-      "zip" : "14955",
-      "country" : "United States",
-      "clinetID" : "993A8BEA-D093-2DD5-A382-7C801A921C1A",
-      "groupedSequenceID" : ""
-    } ],
-    "000164" : [ {
-      "sequenceID" : "000164",
-      "group" : "F",
-      "address1" : "Wade Flowers",
-      "street" : "Ap #856-3118 Et Road",
-      "city" : "Amiens",
-      "zip" : "442814",
-      "country" : "United States",
-      "clinetID" : "8A15372E-9899-C5A3-5944-A44EAA027DDA",
-      "groupedSequenceID" : ""
-    } ]
-  }
+  "000029" : [ {
+    "sequenceID" : "000029",
+    "group" : "F",
+    "address1" : "Celeste Sosa",
+    "street" : "Ap #795-1716 Nullam St.",
+    "city" : "Muzaffarpur",
+    "zip" : "6248",
+    "country" : "United States",
+    "clinetID" : "6C998ABE-8284-A77D-D041-C5C6F268B712",
+    "groupedSequenceID" : ""
+  } ],
+  "000066" : [ {
+    "sequenceID" : "000066",
+    "group" : "F",
+    "address1" : "Hammett Preston",
+    "street" : "Ap #296-4162 In Avenue",
+    "city" : "Burgos",
+    "zip" : "6928",
+    "country" : "United States",
+    "clinetID" : "AE057C32-9D8C-EFDD-EE88-484D82CB2A40",
+    "groupedSequenceID" : ""
+  } ],
+  "000077" : [ {
+    "sequenceID" : "000077",
+    "group" : "F",
+    "address1" : "Dai Fleming",
+    "street" : "571-2901 Duis Road",
+    "city" : "Hainan",
+    "zip" : "88432",
+    "country" : "United States",
+    "clinetID" : "D258FCB6-2DD6-BCA8-A68E-1EC1564ACB6D",
+    "groupedSequenceID" : ""
+  } ],
+  "000111" : [ {
+    "sequenceID" : "000111",
+    "group" : "F",
+    "address1" : "Lionel Best",
+    "street" : "202-4064 Orci. Av.",
+    "city" : "Bello",
+    "zip" : "6223 EW",
+    "country" : "United States",
+    "clinetID" : "62A64E7E-5297-0B45-D67B-C2E8305D6764",
+    "groupedSequenceID" : ""
+  } ],
+  "000112" : [ {
+    "sequenceID" : "000112",
+    "group" : "F",
+    "address1" : "Zenia Christian",
+    "street" : "Ap #921-1055 Ullamcorper Road",
+    "city" : "Wernigerode",
+    "zip" : "602815",
+    "country" : "United States",
+    "clinetID" : "4FAB7F6F-C14A-97B9-C15E-02254CBE86C9",
+    "groupedSequenceID" : ""
+  } ],
+  "000127" : [ {
+    "sequenceID" : "000127",
+    "group" : "F",
+    "address1" : "Ashely Cooper",
+    "street" : "984-1242 Orci. Rd.",
+    "city" : "Quilaco",
+    "zip" : "28035",
+    "country" : "United States",
+    "clinetID" : "3DE15F97-3F5C-CABF-126B-12B1DC2C5CCB",
+    "groupedSequenceID" : ""
+  } ],
+  "000144" : [ {
+    "sequenceID" : "000144",
+    "group" : "F",
+    "address1" : "Xaviera Downs",
+    "street" : "4283 Cras Av.",
+    "city" : "Rechnitz",
+    "zip" : "20726",
+    "country" : "United States",
+    "clinetID" : "AA5988B4-D708-7909-2968-1E79A8D962A1",
+    "groupedSequenceID" : ""
+  } ],
+  "000149" : [ {
+    "sequenceID" : "000149",
+    "group" : "F",
+    "address1" : "Oren Mendoza",
+    "street" : "Ap #515-944 Nunc St.",
+    "city" : "Barrow-in-Furness",
+    "zip" : "14955",
+    "country" : "United States",
+    "clinetID" : "993A8BEA-D093-2DD5-A382-7C801A921C1A",
+    "groupedSequenceID" : ""
+  } ],
+  "000164" : [ {
+    "sequenceID" : "000164",
+    "group" : "F",
+    "address1" : "Wade Flowers",
+    "street" : "Ap #856-3118 Et Road",
+    "city" : "Amiens",
+    "zip" : "442814",
+    "country" : "United States",
+    "clinetID" : "8A15372E-9899-C5A3-5944-A44EAA027DDA",
+    "groupedSequenceID" : ""
+  } ]
 }

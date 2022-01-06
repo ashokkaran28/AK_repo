@@ -5,6 +5,15 @@ import java.util.List;
 
 import client.data.pojo.Customer;
 
+/**
+ * Accumulator class written to merge groups of customers
+ * whose street,city,zip and country matches with each other.
+ * Also during grouping lowest sequenceID group is picked and 
+ * all other sequenceIDs grouped are added to {@code groupedSequenceID} field
+ * 
+ * 
+ * @author Ashok Kumar Karan
+ */
 public class Accumulator {
 
 	private String sequenceID;
@@ -14,13 +23,22 @@ public class Accumulator {
 	private String zip;
 	private String country;
 
-	List<Customer> customers;
-
+	private List<Customer> customers;
+	
+	/**
+     * Constructor
+     */
 	Accumulator() {
 		customers = new ArrayList<>();
 		groupedSequenceID = new StringBuilder("");
 	}
-
+	
+	/**
+     * written to merge groups of customers
+     * whose street,city,zip and country matches with each other.
+     * Also during grouping lowest sequenceID group is picked and 
+     * all other sequenceIDs grouped are added to {@code groupedSequenceID} field
+     */
 	void accumulate(Customer cust) {
 		if (sequenceID == null && street == null && city == null && zip == null && country == null) {
 			sequenceID = cust.getSequenceID();
@@ -59,7 +77,7 @@ public class Accumulator {
 
 		}
 	}
-
+	
 	Accumulator combine(Accumulator other) {
 		if (Integer.valueOf(this.sequenceID) < Integer.valueOf(other.getSequenceID())) {
 			return this;
