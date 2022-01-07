@@ -16,13 +16,6 @@ import client.data.pojo.Customer;
  */
 public class Accumulator {
 
-	private String sequenceID;
-	private StringBuilder groupedSequenceID;
-	private String street;
-	private String city;
-	private String zip;
-	private String country;
-
 	private List<Customer> customers;
 
 	/**
@@ -30,7 +23,6 @@ public class Accumulator {
 	 */
 	public Accumulator() {
 		customers = new ArrayList<>();
-		groupedSequenceID = new StringBuilder("");
 	}
 
 	/**
@@ -50,7 +42,6 @@ public class Accumulator {
 			}
 			if (Integer.valueOf(cust.getSequenceID()) < Integer.valueOf(matchingCustomer.getSequenceID())) {
 				matchingCustomer.setSequenceID(cust.getSequenceID());
-				matchingCustomer.setGroupedSequenceID(groupedSequenceID.toString());
 				matchingCustomer.setGroup(cust.getGroup());
 				matchingCustomer.setAddress1(cust.getAddress1());
 				matchingCustomer.setClinetID(cust.getClinetID());
@@ -62,14 +53,7 @@ public class Accumulator {
 
 	public Accumulator combine(Accumulator other) {
 
-		if (Integer.valueOf(this.sequenceID) < Integer.valueOf(other.getSequenceID())) {
-			return this;
-		} else if (Integer.valueOf(this.sequenceID) > Integer.valueOf(other.getSequenceID())) {
-			return other;
-		} else {
-			this.customers.addAll(other.getCustomers());
-			return this;
-		}
+		return this;
 	}
 
 	public List<Customer> getCustomers() {
@@ -86,54 +70,6 @@ public class Accumulator {
 		}
 		return matchingCustomer;
 
-	}
-
-	public String getSequenceID() {
-		return sequenceID;
-	}
-
-	public void setSequenceID(String sequenceID) {
-		this.sequenceID = sequenceID;
-	}
-
-	public StringBuilder getGroupedSequenceID() {
-		return groupedSequenceID;
-	}
-
-	public void setGroupedSequenceID(StringBuilder groupedSequenceID) {
-		this.groupedSequenceID = groupedSequenceID;
-	}
-
-	public String getStreet() {
-		return street;
-	}
-
-	public void setStreet(String street) {
-		this.street = street;
-	}
-
-	public String getCity() {
-		return city;
-	}
-
-	public void setCity(String city) {
-		this.city = city;
-	}
-
-	public String getZip() {
-		return zip;
-	}
-
-	public void setZip(String zip) {
-		this.zip = zip;
-	}
-
-	public String getCountry() {
-		return country;
-	}
-
-	public void setCountry(String country) {
-		this.country = country;
 	}
 
 	public void setCustomers(List<Customer> customers) {
