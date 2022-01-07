@@ -6,10 +6,10 @@ import java.util.List;
 import client.data.pojo.Customer;
 
 /**
- * Accumulator class written to merge groups of customers
- * whose street,city,zip and country matches with each other.
- * Also during grouping lowest sequenceID group is picked and 
- * all other sequenceIDs grouped are added to {@code groupedSequenceID} field
+ * Accumulator class written to merge groups of customers whose street,city,zip
+ * and country matches with each other. Also during grouping lowest sequenceID
+ * group is picked and all other sequenceIDs grouped are added to
+ * {@code groupedSequenceID} field
  * 
  * 
  * @author Ashok Kumar Karan
@@ -24,61 +24,44 @@ public class Accumulator {
 	private String country;
 
 	private List<Customer> customers;
-	
+
 	/**
-     * Constructor
-     */
+	 * Constructor
+	 */
 	public Accumulator() {
 		customers = new ArrayList<>();
 		groupedSequenceID = new StringBuilder("");
 	}
-	
+
 	/**
-     * written to merge groups of customers
-     * whose street,city,zip and country matches with each other.
-     * Also during grouping lowest sequenceID group is picked and 
-     * all other sequenceIDs grouped are added to {@code groupedSequenceID} field
-     */
+	 * written to merge groups of customers whose street,city,zip and country
+	 * matches with each other. Also during grouping lowest sequenceID group is
+	 * picked and all other sequenceIDs grouped are added to
+	 * {@code groupedSequenceID} field
+	 */
 	public void accumulate(Customer cust) {
-		if (sequenceID == null && street == null && city == null && zip == null && country == null) {
-			sequenceID = cust.getSequenceID();
-			street = cust.getStreet();
-			city = cust.getCity();
-			zip = cust.getZip();
-			country = cust.getCountry();
+		if (customers.contains(cust)) {
+			Customer matchingCustomer = getMatchingCustomer(customers, cust);
+			if (matchingCustomer.getGroupedSequenceID().isEmpty()) {
+				matchingCustomer.setGroupedSequenceID(matchingCustomer.getSequenceID() + "_" + cust.getSequenceID());
+			} else {
+				matchingCustomer
+						.setGroupedSequenceID(matchingCustomer.getGroupedSequenceID() + "_" + cust.getSequenceID());
+			}
+			if (Integer.valueOf(cust.getSequenceID()) < Integer.valueOf(matchingCustomer.getSequenceID())) {
+				matchingCustomer.setSequenceID(cust.getSequenceID());
+				matchingCustomer.setGroupedSequenceID(groupedSequenceID.toString());
+				matchingCustomer.setGroup(cust.getGroup());
+				matchingCustomer.setAddress1(cust.getAddress1());
+				matchingCustomer.setClinetID(cust.getClinetID());
+			}
+		} else {
 			customers.add(cust);
 		}
-
-		else {
-			if (street.equalsIgnoreCase(cust.getStreet()) && city.equalsIgnoreCase(cust.getCity())
-					&& zip.equalsIgnoreCase(cust.getZip()) && country.equalsIgnoreCase(cust.getCountry())) {
-				if ("".equalsIgnoreCase(groupedSequenceID.toString())) {
-					groupedSequenceID.append(sequenceID + "_" + cust.getSequenceID());
-				} else {
-					groupedSequenceID.append("_" + cust.getSequenceID());
-				}
-				for (Customer c : customers) {
-					if (c.getStreet().equalsIgnoreCase(cust.getStreet()) && c.getCity().equalsIgnoreCase(cust.getCity())
-							&& c.getZip().equalsIgnoreCase(cust.getZip())
-							&& c.getCountry().equalsIgnoreCase(cust.getCountry())) {
-						if (Integer.valueOf(cust.getSequenceID()) < Integer.valueOf(c.getSequenceID())) {
-							sequenceID = cust.getSequenceID();
-							customers.remove(c);
-							customers.add(cust);
-							cust.setGroupedSequenceID(groupedSequenceID.toString());
-						} else {
-							c.setGroupedSequenceID(groupedSequenceID.toString());
-						}
-					}
-				}
-			} else {
-				customers.add(cust);
-			}
-
-		}
 	}
-	
+
 	public Accumulator combine(Accumulator other) {
+
 		if (Integer.valueOf(this.sequenceID) < Integer.valueOf(other.getSequenceID())) {
 			return this;
 		} else if (Integer.valueOf(this.sequenceID) > Integer.valueOf(other.getSequenceID())) {
@@ -91,6 +74,18 @@ public class Accumulator {
 
 	public List<Customer> getCustomers() {
 		return customers;
+	}
+
+	public Customer getMatchingCustomer(List<Customer> customers, Customer secondCust) {
+		Customer matchingCustomer = null;
+		for (int i = 0; i < customers.size(); i++) {
+			if (customers.get(i).equals(secondCust)) {
+				matchingCustomer = customers.get(i);
+				break;
+			}
+		}
+		return matchingCustomer;
+
 	}
 
 	public String getSequenceID() {

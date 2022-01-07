@@ -8,39 +8,6 @@
     "zip" : "9631",
     "country" : "United States",
     "clinetID" : "3014E652-CCDD-280C-32E9-4AB3317875B3",
-    "groupedSequenceID" : ""
-  } ],
-  "000152" : [ {
-    "sequenceID" : "000152",
-    "group" : "H",
-    "address1" : "Jeremy Hoover",
-    "street" : "7426 Vivamus Road",
-    "city" : "Brandenburg",
-    "zip" : "9631",
-    "country" : "United States",
-    "clinetID" : "28FAB23A-DB79-B580-2989-2B1D662EB896",
-    "groupedSequenceID" : ""
-  } ],
-  "000156" : [ {
-    "sequenceID" : "000156",
-    "group" : "H",
-    "address1" : "Lynn Shelton",
-    "street" : "7426 Vivamus Road",
-    "city" : "Brandenburg",
-    "zip" : "9631",
-    "country" : "United States",
-    "clinetID" : "8E88BBA1-152C-3674-3991-786A85692BD8",
-    "groupedSequenceID" : ""
-  } ],
-  "000162" : [ {
-    "sequenceID" : "000162",
-    "group" : "H",
-    "address1" : "Stewart Patel",
-    "street" : "7426 Vivamus Road",
-    "city" : "Brandenburg",
-    "zip" : "9631",
-    "country" : "United States",
-    "clinetID" : "C86A7134-8EC6-7EAA-717D-B1F80A3F2A5D",
-    "groupedSequenceID" : ""
+    "groupedSequenceID" : "000148_000152_000156_000162"
   } ]
 }
